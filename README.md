@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/fawaz_exe" target="blank"><img src="https://img.shields.io/twitter/follow/fawaz_exe?logo=twitter&style=for-the-badge" alt="fawaz_exe" /></a> </p>
 
-- 🔭 I’m currently working on [GoodMind](https://goodmind.co)
+- 🔭 I’m currently working on <a href="127.0.0.1">Nothing</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
