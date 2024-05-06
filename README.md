@@ -13,9 +13,9 @@
 
 - 💬 Ask me about **Javascript, Python and Distributed Systems**
 
-- 📫 How to reach me **syed.ali@students.iiit.ac.in**
+- 📫 How to reach me **fawaz@code.in**
 
-- ⚡ Fun fact **I killed humour long back**
+- ⚡ Fun fact **I killed my humour long back**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
