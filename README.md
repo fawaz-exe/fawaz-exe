@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **fawaz@code.in**
 
-- ⚡ Fun fact **I killed my humour long back**
+- ⚡ Fun fact **"( ) ( )" isn't a palindrome, but "( ) ) (" is.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
