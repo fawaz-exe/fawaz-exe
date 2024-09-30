@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fawaz-exe&label=Profile%20views&color=0e75b6&style=flat" alt="fawaz-exe" /> </p>
 
-<p align="left"> <a href="https://twitter.com/fawaz_exe" target="blank"><img src="https://img.shields.io/twitter/follow/fawaz_exe?logo=twitter&style=for-the-badge" alt="fawaz_exe" /></a> </p>
+<p align="left"> <a href="https://twitter.com/0xfawazali" target="blank"><img src="https://img.shields.io/twitter/follow/fawaz_exe?logo=twitter&style=for-the-badge" alt="fawaz_exe" /></a> </p>
 
 - 🔭 I’m currently working on **Blockchain & Web3 Development**
 
