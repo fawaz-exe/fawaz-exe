@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/fawaz_exe" target="blank"><img src="https://img.shields.io/twitter/follow/fawaz_exe?logo=twitter&style=for-the-badge" alt="fawaz_exe" /></a> </p>
 
-- 🔭 I’m currently working on **Internals Of Application Servers**
+- 🔭 I’m currently working on **Blockchain & Web3 Development**
 
-- 🌱 I’m currently learning **Django & Distributed Applications**
+- 🌱 I’m currently learning **Solidity**
 
-- 👨‍💻 All of my projects are available at [Coming-Soon](Coming-Soon)
+- 👨‍💻 All of my projects are available at [Fawaz.in](fawaz.in)
 
-- 💬 Ask me about **Javascript, Python and Distributed Systems**
+- 💬 Ask me about **Javascript, Python, Distributed Systems & Blockchain**
 
 - 📫 How to reach me **fawaz@code.in**
 
